@@ -23,8 +23,12 @@ To-do list:
 - [ ] Add some events into database.
 - [ ] Different languages.
 - [ ] All photos added.
-- [ ] Lazy loading of images
-- [ ] Performance upgrades
+- [ ] Lazy loading of images.
+- [ ] Performance upgrades.
+
+Whole website is written with usage of Angular 5 as JS framework and Bootstrap for CSS.
+
+Enjoy browsing!
 
 <!-- My Referrences -->
 [here]: http://projects.bborawski.pl/angular-board-games
